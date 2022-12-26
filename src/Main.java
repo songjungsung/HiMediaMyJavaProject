@@ -8,7 +8,7 @@ public class Main {
 		sub.doSomeThing();
 		
 		System.out.println("새로운 내용을 추가");
-		
+		System.out.println("또 다른 내용을 추가");
 	}
 
 }
