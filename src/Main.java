@@ -9,6 +9,8 @@ public class Main {
 		
 		System.out.println("새로운 내용을 추가");
 		System.out.println("또 다른 내용을 추가");
+		
+		System.out.println("깃허브에 반영할 내용");
 	}
 
 }
