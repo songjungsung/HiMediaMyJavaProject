@@ -16,6 +16,7 @@ public class AddressBook {
 			System.out.println("--------------------------------------------------");
 			System.out.print("선택 > ");
 			System.out.print("----------------------------------------- ");
+			System.out.print("-------------------------------------- ");
 
 			// 선택한 메뉴 번호에 맞는 기능(메서드)을 호출
 			int menu = input.nextInt();
